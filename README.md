@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Dockerfiles: attempting to copy and install dependencies from a missing file.  The initial `Dockerfile` contains this error. The `DockerfileSolution.txt` shows the corrected version.
